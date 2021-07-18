@@ -1,0 +1,22 @@
+{
+  "name": "@josharsh/factoryjs",
+  "version": "1.0.0",
+  "description": "Javascript's native capabilities expressed as functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josharsh/Factory.js.git"
+  },
+  "keywords": [
+    "factoryjs"
+  ],
+  "author": "josharsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josharsh/Factory.js/issues"
+  },
+  "homepage": "https://github.com/josharsh/Factory.js#readme"
+}
